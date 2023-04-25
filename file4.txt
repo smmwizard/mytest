@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 unterhalten
+=======
+Einzufugen main
+>>>>>>> main
 =======
 Einzufugen main
 >>>>>>> main
