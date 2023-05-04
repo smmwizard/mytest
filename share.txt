@@ -1,9 +1,5 @@
 hali hallo
-<<<<<<< Updated upstream
 tschuss
-
-=======
 
 
 change for stash
->>>>>>> Stashed changes
